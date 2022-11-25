@@ -1,0 +1,4 @@
+C:\Users\csena\OneDrive\Respaldo de documentos\REPOSITORIOS\Practicos APP WEB\Sitio Biblioteca\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\csena\OneDrive\Respaldo de documentos\REPOSITORIOS\Practicos APP WEB\Sitio Biblioteca\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\csena\OneDrive\Respaldo de documentos\REPOSITORIOS\Practicos APP WEB\Sitio Biblioteca\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\csena\OneDrive\Respaldo de documentos\REPOSITORIOS\Practicos APP WEB\Sitio Biblioteca\Persistencia\obj\Debug\Persistencia.pdb

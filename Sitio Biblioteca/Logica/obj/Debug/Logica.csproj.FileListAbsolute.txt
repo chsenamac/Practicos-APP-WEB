@@ -1,0 +1,4 @@
+C:\Users\csena\OneDrive\Respaldo de documentos\REPOSITORIOS\Practicos APP WEB\Sitio Biblioteca\Logica\bin\Debug\Logica.dll
+C:\Users\csena\OneDrive\Respaldo de documentos\REPOSITORIOS\Practicos APP WEB\Sitio Biblioteca\Logica\bin\Debug\Logica.pdb
+C:\Users\csena\OneDrive\Respaldo de documentos\REPOSITORIOS\Practicos APP WEB\Sitio Biblioteca\Logica\obj\Debug\Logica.dll
+C:\Users\csena\OneDrive\Respaldo de documentos\REPOSITORIOS\Practicos APP WEB\Sitio Biblioteca\Logica\obj\Debug\Logica.pdb
