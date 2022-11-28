@@ -1,0 +1,4 @@
+C:\Users\csena\OneDrive\Documents\REPOSITORIOS\Practicos APP WEB\Sitio Biblioteca\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\csena\OneDrive\Documents\REPOSITORIOS\Practicos APP WEB\Sitio Biblioteca\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\csena\OneDrive\Documents\REPOSITORIOS\Practicos APP WEB\Sitio Biblioteca\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\csena\OneDrive\Documents\REPOSITORIOS\Practicos APP WEB\Sitio Biblioteca\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
